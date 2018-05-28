@@ -10,7 +10,7 @@
 ----
 ## Change Log
 #### 20180529 task07
-> ADD gaoyushu.txt / dongxin.txt / wangluyu.txt / gaoqingxin.txt / zhaozheng.txt
+> ADD [gaoyushu.txt](gaoyushu.txt) / [dongxin.txt](dongxin.txt) / [wangluyu.txt](wangluyu.txt) / [gaoqingxin.txt](gaoqingxin.txt) / [zhaozheng.txt](zhaozheng.txt)
 >> * 新增成员信息
 ----
 ## Authors
