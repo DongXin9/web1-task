@@ -1,9 +1,9 @@
 # web1-task
 ----
 ## Contents
-* [Requirements](##Requirements)
-* [Change Log](##Change-Log)
-* [Authors](##Authors)
+* [Requirements](##requirements)
+* [Change Log](##change-Log)
+* [Authors](##authors)
 ----
 ## Requirements
 * [task07](www.edu2act.net/team/2017-ji-WEB-kai-fa-yi/tasks/1689/)
