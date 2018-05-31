@@ -13,7 +13,7 @@
 ----
 ## Change Log
 #### 20180529 task07
-> ADD [Authors/gaoyushu.txt](gaoyushu.txt) / [Authors/dongxin.txt](dongxin.txt) / [Authors/wangluyu.txt](wangluyu.txt) / [Authors/gaoqingxin.txt](gaoqingxin.txt) / [Authors/zhaozheng.txt](zhaozheng.txt)
+> ADD [/Authors/gaoyushu.txt](gaoyushu.txt) / [/Authors/dongxin.txt](dongxin.txt) / [/Authors/wangluyu.txt](wangluyu.txt) / [/Authors/gaoqingxin.txt](gaoqingxin.txt) / [/Authors/zhaozheng.txt](zhaozheng.txt)
 >> * 新增成员信息
 #### 201805331
 > ADD [Requirements](Requirements)  
