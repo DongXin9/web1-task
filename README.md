@@ -8,12 +8,12 @@
 * [Acknowledgement](#acknowledgement)
 ----
 ## Requirements
-* [【英华逸游】]（Requirements）
+* [【英华逸游】](https://github.com/gaoyushu/web1-task/tree/master/Requirements/%E8%8B%B1%E5%8D%8E%E9%80%B8%E6%B8%B8)
 * 【中智信元】
 ----
 ## Change Log
 #### 20180529 task07
-> ADD [/Authors/gaoyushu.txt](gaoyushu.txt) / [/Authors/dongxin.txt](dongxin.txt) / [/Authors/wangluyu.txt](wangluyu.txt) / [/Authors/gaoqingxin.txt](gaoqingxin.txt) / [/Authors/zhaozheng.txt](zhaozheng.txt)
+> ADD [gaoyushu.txt](/Authors/gaoyushu.txt) / [dongxin.txt](/Authors/dongxin.txt) / [wangluyu.txt](/Authors/wangluyu.txt) / [gaoqingxin.txt](/Authors/gaoqingxin.txt) / [zhaozheng.txt](/Authors/zhaozheng.txt)
 >> * 新增成员信息
 #### 201805331
 > ADD [Requirements](Requirements)  
