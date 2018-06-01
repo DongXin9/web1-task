@@ -1,4 +1,4 @@
-|# web1-task
+# web1-task
 ----
 ## Contents
 * [Requirements](#requirements)
