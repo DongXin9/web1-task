@@ -1,4 +1,4 @@
-# web1-task
+|# web1-task
 ----
 ## Contents
 * [Requirements](#requirements)
@@ -25,7 +25,7 @@
 ## Information
 ### Authors
 学号|姓名|用户名|任务
-----|----|----
+----|----|----|----
 2017011951|高予蜀|gaoyushu|index
 2017011950|董心|DongXin9|3.1 / 3.1.1
 2017011945|王陆宇|wangluyu1998|3.1.2 / 4
