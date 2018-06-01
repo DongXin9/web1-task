@@ -5,7 +5,6 @@
 * [Change Log](#change-Log)
 * [Information](#information)
   * [Authors](#authors)
-  * [Distribution](#distribution)
   * [Acknowledgement](#acknowledgement)
 ----
 ## Requirements
@@ -25,22 +24,13 @@
 ----
 ## Information
 ### Authors
-学号|姓名|用户名
+学号|姓名|用户名|任务
 ----|----|----
-2017011951|高予蜀|gaoyushu
-2017011950|董心|DongXin9
-2017011945|王陆宇|wangluyu1998
-2017011980|高清鑫|xiaoqingxin2333
-2017011953|赵政|gqxsgzz
-----
-### Distribution
-成员|任务
-----|----
-高予蜀|index
-董心|3.1 / 3.1.1
-王陆宇|3.1.2 / 4
-高清鑫|3.2 / 3.2.2
-赵政|7.1 / 7.2
+2017011951|高予蜀|gaoyushu|index
+2017011950|董心|DongXin9|3.1 / 3.1.1
+2017011945|王陆宇|wangluyu1998|3.1.2 / 4
+2017011980|高清鑫|xiaoqingxin2333|3.2 / 3.2.2
+2017011953|赵政|gqxsgzz|7.1 / 7.2
 ----
 ### Acknowledgement
 * Thanks to web
