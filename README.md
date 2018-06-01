@@ -3,9 +3,10 @@
 ## Contents
 * [Requirements](#requirements)
 * [Change Log](#change-Log)
-* [Authors](#authors)
-* [Distribution](#distribution)
-* [Acknowledgement](#acknowledgement)
+* [Information](#information)
+  * [Authors](#authors)
+  * [Distribution](#distribution)
+  * [Acknowledgement](#acknowledgement)
 ----
 ## Requirements
 * [【英华逸游】](https://github.com/gaoyushu/web1-task/tree/master/Requirements/%E8%8B%B1%E5%8D%8E%E9%80%B8%E6%B8%B8)
@@ -22,7 +23,8 @@
 >> * 新增任务分配
 >> * 优化仓库管理
 ----
-## Authors
+## Information
+### Authors
 学号|姓名|用户名
 ----|----|----
 2017011951|高予蜀|gaoyushu
@@ -31,7 +33,7 @@
 2017011980|高清鑫|xiaoqingxin2333
 2017011953|赵政|gqxsgzz
 ----
-## Distribution
+### Distribution
 成员|任务
 ----|----
 高予蜀|index
@@ -40,5 +42,5 @@
 高清鑫|3.2 / 3.2.2
 赵政|7.1 / 7.2
 ----
-## Acknowledgement
+### Acknowledgement
 * Thanks to web
