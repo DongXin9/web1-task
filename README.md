@@ -9,11 +9,11 @@
   * [Acknowledgement](#acknowledgement)
 ----
 ## Requirements
-* [【英华逸游】](Requirements)
+* [【英华逸游】](/Requirements)
 * 【中智信元】
 ----
 ## Project
-* [【英华逸游】](https://gaoyushu.github.io/web1-task/Project/index.html)[（code）](/Project/英华逸游)
+* [【英华逸游】](https://gaoyushu.github.io/web1-task/Project/index.html)[（code）](/Project)
 * 【中智信元】
 ----
 ## Change Log
