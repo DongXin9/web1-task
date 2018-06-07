@@ -2,13 +2,18 @@
 ----
 ## Contents
 * [Requirements](#requirements)
+* [Project](#project)
 * [Change Log](#change-Log)
 * [Information](#information)
   * [Authors](#authors)
   * [Acknowledgement](#acknowledgement)
 ----
 ## Requirements
-* [【英华逸游】](https://github.com/gaoyushu/web1-task/tree/master/Requirements/%E8%8B%B1%E5%8D%8E%E9%80%B8%E6%B8%B8)
+* [【英华逸游】](/Requirements/英华逸游)
+* 【中智信元】
+----
+## Project
+* [【英华逸游】](https://gaoyushu.github.io/web1-task/Project/index.html)[（code）](/Project/英华逸游)
 * 【中智信元】
 ----
 ## Change Log
