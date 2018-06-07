@@ -9,7 +9,7 @@
   * [Acknowledgement](#acknowledgement)
 ----
 ## Requirements
-* [【英华逸游】](/Requirements)
+* [【英华逸游】](Requirements)
 * 【中智信元】
 ----
 ## Project
