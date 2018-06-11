@@ -31,7 +31,7 @@ a{
 	padding-right:14px;
 	float: left;
 	line-height:45px;
-	background:url(../4-images/line.png) no-repeat right center;
+	background:url(../img/4-images/line.png) no-repeat right center;
 }
 .right li a{
 	font-size:14.23px;
@@ -149,7 +149,7 @@ a{
 	height:1049px;
 	margin-top:124px;
 	float:left;
-	background-image:url(../4-images/beijing.png);
+	background-image:url(../img/4-images/beijing.png);
 }
 .biaoti{
 	width:663px;
@@ -236,7 +236,7 @@ a{
     -webkit-appearance:none;
     -ms-appearance:none;
     font-size:16px;
-    background:url("../4-images/005.png") no-repeat right;
+    background:url("../img/4-images/005.png") no-repeat right;
 }
 .day select option{
 	font-size:16px;
