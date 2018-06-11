@@ -232,7 +232,7 @@ a{
 	position: relative;
 	float: left;
 }
-.d13 a{
+.d13a{
 	color: #000;
 }
 .d131{
@@ -246,9 +246,9 @@ a{
 	position: absolute;
 	background: #f5f5f5;
 }
+
 .d14{
 	float: right;
-
 }
 .d15{
 	float: right;
