@@ -64,6 +64,7 @@ a{
 	height: 79px;
 	background-color: #ffffff;
 	min-width:1200px;/*小于1200会出现滚动条*/
+	border-bottom:2px solid #e1e1e1; 
 }
 .list1{
 	height: 79px;
@@ -147,6 +148,37 @@ a{
 }
 .list2 li a:hover{
 	color: #e8420a;
+}
+/*浮动*/
+.beside{
+	width: 163px;
+	height: 395px;
+	position: fixed;
+	right: 0;
+	top: 200px;
+	z-index: 996;
+}
+/*.besidea{
+	width: 103px;
+	height: 120px;
+	float: left;
+	padding: 5px 5px;
+	margin-top: 100px;
+	background: #302e31;
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+}*/
+.besideb{
+	width: 50px;
+	height: 391px;
+	float: right;
+	background: #fff;
+}
+.beba{
+	width: 47px;
+	height: 47px;
+	margin-top: 1px;
 }
 /*表头*/
 .picture{
