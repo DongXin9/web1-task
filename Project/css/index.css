@@ -162,6 +162,7 @@ body{
 	margin: 0 auto;
 	position: absolute;
 	top: 0;
+	z-index: 997;
 }
 /*bannera start*/
 .bannera {
@@ -357,6 +358,39 @@ body{
 }
 .banec{
 	text-align: center;
+}
+
+/*beside start*/
+.beside{
+	width: 163px;
+	height: 395px;
+	position: fixed;
+	right: 0;
+	top: 200px;
+	z-index: 996;
+}
+.besidea{
+	width: 103px;
+	height: 120px;
+	float: left;
+	padding: 5px 5px;
+	margin-top: 100px;
+	background: #302e31;
+	text-align: center;
+	font-size: 12px;
+	color: #fff;
+}
+.besideb{
+	width: 50px;
+	height: 391px;
+	float: left;
+	background: #fff;
+}
+.beba{
+	width: 47px;
+	height: 47px;
+	margin-top: 1px;
+
 }
 
 /*feature start*/
