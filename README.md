@@ -20,12 +20,17 @@
 #### 20180529 task07
 > ADD [gaoyushu.txt](/Authors/gaoyushu.txt) / [dongxin.txt](/Authors/dongxin.txt) / [wangluyu.txt](/Authors/wangluyu.txt) / [gaoqingxin.txt](/Authors/gaoqingxin.txt) / [zhaozheng.txt](/Authors/zhaozheng.txt)
 >> * 新增成员信息
-#### 201805331
+#### 20180531
 > ADD [Requirements](Requirements)  
 > Move numbers.txt to [Authors](Authors)
 >> * 新增任务要求【英华逸游】
 >> * 新增任务分配
 >> * 优化仓库管理
+#### 20180611
+>ADD [index](https://gaoyushu.github.io/web1-task/Project/index.html) / [3.1PC](https://gaoyushu.github.io/web1-task/Project/html/3.1PC.html) / [3.1.1PC](https://gaoyushu.github.io/web1-task/Project/html/3.1.1PC.html) / [3.2PC](https://gaoyushu.github.io/web1-task/Project/html/3.2PC.html) / [4PC](https://gaoyushu.github.io/web1-task/Project/html/4PC.html) / [7.1PC](https://gaoyushu.github.io/web1-task/Project/html/7.1PC.html)
+>> * 基本完成 index / 3.1PC / 3.1.1PC / 3.2PC / 4PC / 7.1PC
+>> * 更新仓库wiki
+>> * 动效优化计划 index / 3.1PC 
 ----
 ## Information
 ### Authors
