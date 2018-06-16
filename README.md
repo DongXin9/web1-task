@@ -26,7 +26,7 @@
 * [【中智信元】](/Project/中智信元)
 > [index](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/index.html)  
 > [contact](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/contact.html) / 
-> [solution](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/solution.html)
+> [solution](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/solution.html)  
 ----
 ## Change Log
 #### 20180529 task07
@@ -45,7 +45,7 @@
 #### 20180616
 >ADD [index](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/index.html) / [contact](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/contact.html) / [solution](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/solution.html)
 >> * 新增完成任务
->> * 更改链接路径
+>> * 更改链接路径  
 ----
 ## Information
 ### Authors
@@ -55,7 +55,7 @@
 2017011950|董心|DongXin9|3.1 / 3.1.1
 2017011945|王陆宇|wangluyu1998|3.1.2 / 4
 2017011980|高清鑫|xiaoqingxin2333|3.2 / 3.2.2
-2017011953|赵政|gqxsgzz|7.1 / 7.2
+2017011953|赵政|gqxsgzz|7.1 / 7.2  
 ----
 ### Acknowledgement
 * Thanks to web
