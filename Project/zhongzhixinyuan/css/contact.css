@@ -59,7 +59,7 @@ body{
 .bannera{
 	height: 410px;
 	width: 100%;
-	margin: 10px auto;
+	margin: 0px auto;
 	background: url(../img/index/bannera.png);
 	background-position: center;
 }
