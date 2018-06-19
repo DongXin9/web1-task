@@ -149,7 +149,7 @@ a{
 	height:1049px;
 	margin-top:124px;
 	float:left;
-	background-image:url(../img/4-images/beijing.png);
+	background:url(../img/4-images/beijing.png);
 }
 .biaoti{
 	width:663px;
@@ -253,7 +253,7 @@ a{
     -webkit-appearance:none;
     -ms-appearance:none;
     font-size:16px;
-	background:url("../4-images/005.png") no-repeat right;
+	background:url("../img/4-images/005.png") no-repeat right;
 }
 .sanxiang{
 	float:left;
@@ -270,7 +270,7 @@ a{
     -webkit-appearance:none;
     -ms-appearance:none;
     font-size:16px;
-	background:url("../4-images/005.png") no-repeat right;
+	background:url("../img/4-images/005.png") no-repeat right;
 }
 .chengren{
 	float:left;
@@ -283,7 +283,7 @@ a{
     -webkit-appearance:none;
     -ms-appearance:none;
     font-size:16px;
-	background:url("../4-images/005.png") no-repeat right;
+	background:url("../img/4-images/005.png") no-repeat right;
 }
 .ertong select{
     appearance:none;
@@ -291,7 +291,7 @@ a{
     -webkit-appearance:none;
     -ms-appearance:none;
     font-size:16px;
-	background:url("../4-images/005.png") no-repeat right;
+	background:url("../img/4-images/005.png") no-repeat right;
 }
 .qita{
 	margin-bottom:30px;
@@ -633,24 +633,6 @@ a{
 	color: #ffffff;
 	padding-bottom: 18px;
 }
-/*.fulan{
-	width:47px;
-	height:390px;
-	float:right;
-	margin-top:400px;
-	margin-bottom:260px;
-}
-.kuai{
-	width:47px;
-	height:47px;
-	float:right;
-	background-color:#1c5080;
-	margin-bottom:1px;
-}
-.tutu{
-	margin-top:5px;
-	margin-left:6px;
-}*/
 .beside{
 	width: 163px;
 	height: 395px;
