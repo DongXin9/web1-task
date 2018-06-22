@@ -4,6 +4,7 @@
 * [Requirements](#requirements)
 * [Project](#project)
 * [Change Log](#change-Log)
+* [Wiki](#wiki)
 * [Information](#information)
   * [Authors](#authors)
   * [Acknowledgement](#acknowledgement)
@@ -13,12 +14,12 @@
 * [【中智信元】](/Requirements/中智信元)
 ----
 ## Project
-* [【英华逸游】](/Project/英华逸游)
+* [【英华逸游】](/Project)
 > [index](https://gaoyushu.github.io/web1-task/Project/index.html)  
-> [3.1PC](https://gaoyushu.github.io/web1-task/Project/3.1PC.html) / 
-> [3.1.1PC](https://gaoyushu.github.io/web1-task/Project/3.1.1PC.html) / 
-> [3.1.2PC](https://gaoyushu.github.io/web1-task/Project/3.1.2PC.html) / 
-> [3.2PC](https://gaoyushu.github.io/web1-task/Project/3.2PC.html) / 
+> [3.1PC](https://gaoyushu.github.io/web1-task/Project/html/3.1PC.html) / 
+> [3.1.1PC](https://gaoyushu.github.io/web1-task/Project/html/3.1.1PC.html) / 
+> [3.1.2PC](https://gaoyushu.github.io/web1-task/Project/html/3.1.2PC.html) / 
+> [3.2PC](https://gaoyushu.github.io/web1-task/Project/html/3.2PC.html) / 
 > [3.2.2PC](https://gaoyushu.github.io/web1-task/Project/html/3.2.2PC.html) / 
 > [4PC](https://gaoyushu.github.io/web1-task/Project/html/4PC.html) / 
 > [7.1PC](https://gaoyushu.github.io/web1-task/Project/html/7.1PC.html) / 
@@ -46,6 +47,9 @@
 >ADD [index](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/index.html) / [contact](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/contact.html) / [solution](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/solution.html)
 >> * 新增完成任务
 >> * 更改链接路径  
+----
+## Wiki
+* [Recording problems](https://github.com/gaoyushu/web1-task/wiki/Recording-problems)
 ----
 ## Information
 ### Authors
