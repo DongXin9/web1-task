@@ -650,6 +650,12 @@ body{
 	width: 588px;
 	height: 490px;
 }
+.robaa:hover{
+	z-index: 995;
+	position: relative;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
+}
 .robaaa{
 	width: 588px;
 	height: 385px;
@@ -676,6 +682,12 @@ body{
 	height: 525px;
 	margin-top: 4px;
 }
+.robab:hover{
+	z-index: 995;
+	position: relative;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
+}
 .robaba{
 	width: 588px;
 	height: 420px;
@@ -690,6 +702,11 @@ body{
 	height: 290px;
 	position: relative;
 	background: url(../img/index/routeb_03.jpg) no-repeat;
+}
+.robba:hover{
+	z-index: 995;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
 }
 .robbaa{
 	width: 608px;
@@ -717,12 +734,22 @@ body{
 	position: relative;
 	background: url(../img/index/routeb_04.jpg) no-repeat;
 }
+.robbb:hover{
+	z-index: 995;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
+}
 .robbc{
 	width: 608px;
 	height: 365px;
 	margin-top: 4px;
 	position: relative;
 	background: url(../img/index/routeb_05.png) no-repeat;
+}
+.robbc:hover{
+	z-index: 995;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
 }
 /*routec start*/
 .roca{
@@ -849,10 +876,15 @@ body{
 	border-top: 4px solid #fff;
 	background: url(../img/index/tourc_02.png) no-repeat;
 }
+.tocb:hover{
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
+}
 .tocc{
 	width: 665px;
 	height: 450px;
 	float: left;
+	z-index: 997;
 	position: absolute;
 	bottom: 45px;
 	left: 22%;
@@ -860,12 +892,20 @@ body{
 	border-radius: 5px;
 	background: url(../img/index/tourc_03.png) no-repeat;
 }
+.tocc:hover{
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
+}
 .tocd{
 	width: 265px;
 	height: 450px;
 	float: right;
 	border-top: 4px solid #fff;
 	background: url(../img/index/tourc_04.png) no-repeat;
+}
+.tocd:hover{
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
 }
 
 /*visa start*/
@@ -953,6 +993,11 @@ body{
 	position: relative;
 	background: url(../img/index/visac_01.png);
 }
+.vica:hover{
+	z-index: 995;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
+}
 .victa{
 	width: 397.3px;
 	height: 70px;
@@ -981,13 +1026,24 @@ body{
 	height: 275px;
 	margin-bottom: 4px;
 	position: relative;
+	display: block;
 	background: url(../img/index/visac_02.png);
+}
+.vicba:hover{
+	z-index: 995;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
 }
 .vicbb{
 	width: 397.3px;
 	height: 276px;
 	position: relative;
 	background: url(../img/index/visac_03.png);
+}
+.vicbb:hover{
+	z-index: 995;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
 }
 .vicba1{
 	width: 397.3px;
@@ -996,11 +1052,21 @@ body{
 	position: relative;
 	background: url(../img/index/visac_04.png);
 }
+.vicba1:hover{
+	z-index: 995;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
+}
 .vicbb1{
 	width: 397.3px;
 	height: 276px;
 	position: relative;
 	background: url(../img/index/visac_05.png);
+}
+.vicbb1:hover{
+	z-index: 995;
+	transform: scale(1.1);
+	transition: all 1s ease 0s;
 }
 .victb{
 	width: 397.3px;
