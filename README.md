@@ -15,7 +15,9 @@
 ----
 ## Project
 * [【英华逸游】](/Project)
-> [index](https://gaoyushu.github.io/web1-task/Project/index.html)  
+> [index](https://gaoyushu.github.io/web1-task/Project/index.html)   
+> PC：
+> [register](https://gaoyushu.github.io/web1-task/Project/html/register.html) / 
 > [3.1PC](https://gaoyushu.github.io/web1-task/Project/html/3.1PC.html) / 
 > [3.1.1PC](https://gaoyushu.github.io/web1-task/Project/html/3.1.1PC.html) / 
 > [3.1.2PC](https://gaoyushu.github.io/web1-task/Project/html/3.1.2PC.html) / 
@@ -24,7 +26,16 @@
 > [4PC](https://gaoyushu.github.io/web1-task/Project/html/4PC.html) / 
 > [7.1PC](https://gaoyushu.github.io/web1-task/Project/html/7.1PC.html) / 
 > [7.2PC](https://gaoyushu.github.io/web1-task/Project/html/7.2PC.html)  
-* [【中智信元】](/Project/中智信元)
+> SP：
+> [3.1SP](https://gaoyushu.github.io/web1-task/Project/html/3.1SP.html) / 
+> [3.1.1SP](https://gaoyushu.github.io/web1-task/Project/html/3.1.1SP.html) / 
+> [3.1.2SP](https://gaoyushu.github.io/web1-task/Project/html/3.1.2SP.html) / 
+> [3.2SP](https://gaoyushu.github.io/web1-task/Project/html/3.2SP.html) / 
+> [3.2.2SP](https://gaoyushu.github.io/web1-task/Project/html/3.2.2SP.html) / 
+> [4SP](https://gaoyushu.github.io/web1-task/Project/html/4SP.html) / 
+> [7.1SP](https://gaoyushu.github.io/web1-task/Project/html/7.1SP.html) / 
+> [7.2SP](https://gaoyushu.github.io/web1-task/Project/html/7.2SP.html)  
+* [【中智信元】](/Project/zhognzhixinyuan)
 > [index](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/index.html)  
 > [contact](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/contact.html) / 
 > [solution](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/solution.html)  
