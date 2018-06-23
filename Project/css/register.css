@@ -1,0 +1,351 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background: #fff;
+	margin: 0 auto;
+}
+input{
+	color: #a5a5a5;
+}
+
+/*top start*/
+.top{
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	top: 0;
+	z-index: 999;
+	min-width: 400px;
+}
+/*topa start*/
+.topa{
+	width: 100%;
+	height: 25px;
+	padding: 15px 0px;
+	background: #333333;
+}
+.topaa{
+	width: 160px;
+	float: right;
+	margin-right: 50px;
+}
+.topaa p{
+	font-size: 17px;
+	color: #fff;
+	float: right;
+	margin-top: 3px;
+}
+/*topb start*/
+.topb{
+	width: 100%;
+	height: 70px;
+	background: #fff;
+	padding-left: 30px;
+	border-bottom: 1px solid #e8420a;
+}
+.topba{
+	width: 200px;
+	height: 55px;
+	float: left;
+	padding-top: 10px;
+}
+.topbb{
+	width: 400px;
+	height: 30px;
+	float: left;
+	padding-top: 25px;
+	margin-left: 15px;
+}
+.topbb p{
+	font-size: 25px;
+	color: #a5a5a5;
+}
+.topbb span{
+	margin-right: 15px;
+}
+
+/*register start*/
+.register{
+	width: 100%;
+	margin: 180px auto 30px auto;
+}
+/*rea start*/
+.rea{
+	width: 500px;
+	height: 325px;
+	margin: 0 auto;
+	text-align: center; 
+	background: #fff;
+}
+.name{
+	width: 500px;
+	height: 70px;
+}
+.name form{
+	width: 500px;
+	height: 50px;
+	padding: 10px 0;
+}
+.name input{
+	width: 450px;
+	padding: 15px 15px;
+	border-radius: 5px;
+	border: 1px solid #a5a5a5;
+}
+.password{
+	width: 500px;
+	height: 70px;
+	margin-top: 20px;
+}
+.password form{
+	width: 500px;
+	height: 50px;
+	padding: 10px 0;
+}
+.password input{
+	width: 450px;
+	padding: 15px;
+	border-radius: 5px;
+	border: 1px solid #a5a5a5;
+}
+.areatel{
+	width: 500px;
+	height: 70px;
+	margin-top: 20px;
+}
+.area{
+	width: 130px;
+	height: 70px;
+	float: left;
+	margin-left: 10px;
+}
+.area form{
+	width: 130px;
+	height: 50px;
+	padding: 10px 0;
+	color: #a5a5a5;
+}
+.area select{
+	width: 130px;
+	float: left;
+	padding: 15px 5px;
+	border-radius: 5px;
+	border: 1px solid #a5a5a5;
+	color: #a5a5a5;
+}
+.tel{
+	width: 350px;
+	height: 70px;
+	float: left;
+}
+.tel form{
+	width: 350px;
+	height: 50px;
+	padding: 10px 0;
+}
+.tel input{
+	width: 315px;
+	float: left;
+	padding: 15px;
+	margin-left: 5px;
+	border-radius: 5px;
+	border: 1px solid #a5a5a5;
+}
+.right{
+	width: 500px;
+	height: 70px;
+	margin-top: 20px;
+}
+.ri{
+	width: 480px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 5px;
+	border: 1px solid #a5a5a5;
+}
+.ra{
+	width: 300px;
+	height: 50px;
+	float: left;
+}
+.ra input{
+	width: 250px;
+	padding: 16px;
+	float: left;
+	border-radius: 5px;
+	border: 1px solid #fff;
+}
+.rb{
+	width: 150px;
+	height: 50px;
+	float: right;
+	padding: 1px 0.5px;
+}
+.rb button{
+	width: 150px;
+	height: 49px;
+	padding: 15px;
+	background: #e8420a;
+	border: 1px solid #e8420a;
+	border-radius: 5px;
+	color: #fff;
+}
+/*reb start*/
+.reb{
+	width: 500px;
+	height: 300px;
+	margin: 50px auto 0 auto;
+	background: #fff;
+	text-align: center;
+	color: #6c6c6c;
+}
+.sex{
+	width: 250px;
+	height: 75px;
+	margin: 0 auto;
+	display: block;
+	border-top: 3px solid #fff;
+}
+.sex:hover{
+	color: #e8420a;
+	border-top: 3px solid #e8420a;
+}
+.sex p{
+	margin-top: 20px;
+}
+.sex form{
+	width: 200px;
+	height: 30px;
+	margin: 10px auto 0 auto;
+	color: #a5a5a5;
+}
+.sex input{
+	width: 13px;
+	height: 13px;
+	margin-left: 10px;
+}
+.sex label{
+	margin-right: 10px;
+}
+.find{
+	width: 400px;
+	height: 75px;
+	margin: 20px auto 0 auto;
+	display: block;
+	border-top: 3px solid #fff;
+}
+.find:hover{
+	color: #e8420a;
+	border-top: 3px solid #e8420a;
+}
+.find p{
+	margin-top: 20px;
+}
+.find form{
+	width: 350px;
+	height: 30px;
+	margin: 10px auto 0 auto;
+	color: #a5a5a5;
+}
+.find input{
+	width: 13px;
+	height: 13px;
+	margin-left: 10px;
+}
+.find label{
+	margin-right: 10px;
+}
+.suggestion{
+	width: 300px;
+	height: 100px;
+	margin: 20px auto 0 auto;
+	display: block;
+	border-top: 3px solid #fff;
+}
+.suggestion:hover{
+	color: #e8420a;
+	border-top: 3px solid #e8420a;
+}
+.suggestion p{
+	margin-top: 20px;
+}
+.suggestion form{
+	width: 250px;
+	height: 80px;
+	margin: 10px auto 0 auto;
+	color: #a5a5a5;
+}
+.suggestion textarea{
+	width: 200px;
+	height: 50px;
+	padding: 15px;
+	border-radius: 5px;
+	border: 1px solid #a5a5a5;
+	color: #a5a5a5;
+}
+
+/*submit start*/
+.submit{
+	width: 500px;
+	height: 100px;
+	margin: 0 auto;
+	text-align: center;
+	color: #a5a5a5;
+}
+.sua{
+	width: 500px;
+	height: 20px;
+}
+.sua form{
+	width: 500px;
+	height: 20px;
+}
+.sua input{
+	width: 13px;
+	height: 13px
+}
+.sua span{
+	color: #e8420a;
+}
+.sub{
+	width: 500px;
+	height: 70px;
+	margin-top: 5px;
+}
+.sub form{
+	width: 500px;
+	height: 50px;
+	padding: 10px 0;
+}
+.sub input{
+	width: 480px;
+	padding: 15px 15px;
+	border-radius: 5px;
+	border: 1px solid #e8420a;
+	color: #fff;
+	background: #e8420a;
+}
+
+/*bottom start*/
+.bottom{
+	width: 100%;
+	height: 40px;
+	padding: 19px 0;
+	margin: 45px auto 0 auto;
+	text-align: center;
+	background: #000;
+	color: #fff;
+}
+.bottom p{
+	line-height: 20px;
+	color: #fff;
+	font-size: 13px;
+}
