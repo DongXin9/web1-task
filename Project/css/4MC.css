@@ -14,7 +14,7 @@ a{
 	height: 116px;
 	border-bottom: 2px solid #434343;
 	border-top: 2px solid #cecece;
-	position:fixed;
+	/*position:fixed;*/
 	background: #fff;
 }
 .top1{
@@ -57,9 +57,9 @@ a{
 	margin: 0 auto;
 	background: url(../img/4MC/picture.png) no-repeat ;
 }
-.pi{
+/*.pi{
 	height: 120px;
-}
+}*/
 .picture1{
 	padding-top: 68px;
 	padding-bottom: 14px;
