@@ -1,0 +1,441 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*页头*/
+.top{
+	width: 100%;
+	height: 116px;
+	border-bottom: 2px solid #434343;
+	border-top: 2px solid #cecece;
+}
+.top1{
+	width: 670px;
+	height: 116px;
+	margin: 0 auto;
+	background: url(../img/both/list.png) no-repeat left center;
+}
+.topright{
+	width: 260px;
+	height: 80px;
+	padding-top:36px;
+	text-align: center;
+	float: right;
+}
+.top2{
+	width: 166px;
+	height: 55px;
+	background-color: #e8420a;
+	border-radius: 8px;
+	float: left;
+}
+.top2 a{
+	font-size: 28px;
+	color: #ffffff;
+	line-height: 55px;
+}
+.top3{
+	width: 46px;
+	height: 47px;
+	padding-top: 6px;
+	padding-bottom: 2px;
+	float: right;
+	background: url(../img/3.1MC/top3.png) no-repeat;
+}
+.picture{
+	width:750px;
+	height: 398px;
+	margin: 0 auto;
+}
+.picture img{
+	width: 750px;
+	height: 398px;
+
+}
+/*线*/
+.string{
+	width: 100%;
+	height: 20px;
+	background: #f5f5f5;
+}
+/*目的地*/
+.aim{
+	width: 100%;
+	height: 620px;
+	
+}
+.header{
+	width: 670px;
+	height: 100px;
+	margin: 0 auto;
+	border-bottom: 2px solid #e8e8e8;
+}
+.header1{
+	float: left;
+	margin-top: 51px;
+	padding-left: 13px;
+	border-left: 4px solid #e8420a;
+}
+.header1 p{
+	font-size: 30px;
+}
+.aim1{
+	margin: 0 auto;
+	margin-top: 38px;
+	margin-bottom: 60px;
+	width: 750px;
+	height: 420px;
+	background: url(../img/3.1MC/yazhou11.png) no-repeat center;
+	position: relative;
+}
+.yazhou{
+	width: 750px;
+	height: 420px;
+	/*background: url(../img/3.1MC/yazhou1.png) no-repeat center;*/
+}
+.yazhou1{
+	top: 175px;
+	left: 220px;
+	position: absolute;
+	font-size: 24px;
+	color: #e8420a;
+}
+.yazhou2{
+	top: 140px;
+	left: 280px;
+	position: absolute;
+	width: 450px;
+	height: 311px;
+	background: url(../img/3.1MC/yazhou.png) no-repeat center;
+}
+.yazhou2div{
+	width: 300px;
+	padding-left: 150px;
+	height: 66px;
+	/*padding-bottom: 35px;*/
+	padding-top: 50px;
+}
+.yazhou21{
+	font-size: 30px;
+	padding-right: 13px;
+}
+.yazhou22{
+	font-size: 24px;
+	padding-left: 15px;
+}
+.yazhou2 ul{
+	float: left;
+	padding-left: 80px;
+
+}
+.yazhou2 ul li{
+	float: left;
+	padding-right: 22px;
+	padding-bottom: 14px;
+	font-size: 18px;
+	color: #ec806a;
+}
+.yazhou2 ul li a{
+	color:#000;
+}
+#riben{
+	color: #ec806a;
+}
+.yazhou2 ul li a:hover{
+	color:#ec806a;
+}
+.ouzhou1{
+	top: 103px;
+	left: 180px;
+	position: absolute;
+	font-size: 24px;
+	color: #000000;
+}
+.ouzhou1:hover{
+	color: #e8420a;
+}
+.ouzhou1:hover .yazhou2{
+	display: none;
+}
+.feizhou1{
+	top: 220px;
+	left: 75px;
+	position: absolute;
+	font-size: 24px;
+	color: #000000;
+}
+.feizhou1:hover{
+	color: #e8420a;
+}
+.nanmeizhou1{
+	top: 280px;
+	left: 615px;
+	position: absolute;
+	font-size: 24px;
+	color: #000000;
+}
+.nanmeizhou1:hover{
+	color: #e8420a;
+}
+.dayangzhou1{
+	top: 330px;
+	left: 290px;
+	position: absolute;
+	font-size: 24px;
+	color: #000000;
+}
+.dayangzhou1:hover{
+	color: #e8420a;
+}
+.beimeizhou1{
+	top: 140px;
+	left: 535px;
+	position: absolute;
+	font-size: 24px;
+	color: #000000;
+
+}
+.beimeizhou1:hover{
+	color: #e8420a;
+}
+/*旅游国家*/
+.country{
+	width: 670px;
+	height: 1190px;
+	margin: 0 auto;
+}
+/*.country1{
+	width: 670px;
+	height: 1088px;
+	margin: 0 auto;
+}*/
+.countrya{
+	height: 60px;
+	padding:48px 0 0 60px;
+}
+.country ul li{
+	padding-right: 77px;
+	float: left;
+	font-size: 24px;
+}
+#countryli{
+	color: #e8420a;
+}
+#countrylast{
+	padding:0;
+}
+.countryb{
+	width: 670px;
+}
+.countryb1{
+	float: left;
+	background: url(../img/3.1MC/country1.png) no-repeat center;
+	width: 670px;
+	height: 400px;
+	margin-bottom: 22px;
+}
+.countryba{
+	margin-top: 325px;
+	height: 75px;
+	background:rgba(0,0,0,0.5);
+	text-align: center;
+	line-height: 75px;
+}
+#font1{
+	font-size: 26px;
+	color: #fff;
+}
+#font2{
+	font-size: 30px;
+	color: #fff;
+}
+#font3{
+	font-size: 20px;
+	color: #fff;
+}
+.countryb2{
+	float: left;
+	width: 670px;
+	height: 400px;
+	background: url(../img/3.1MC/country2.png) no-repeat center;
+}
+.countrybb{
+	margin-top: 325px;
+	height: 75px;
+	background:rgba(0,0,0,0.5);
+	text-align: center;
+	line-height: 75px;
+}
+.countryb3{
+	float: left;
+	margin-top: 40px;
+	margin-left: 250px;
+}
+.count{
+	width: 220px;
+	height: 55px;
+	border: 1px #666666 solid;
+	border-radius: 10px;
+	text-align: center;
+	line-height: 55px;
+}
+.count a{
+	font-size: 28px;
+	color: #666666;
+}
+/*热门路线*/
+.line{
+	width: 670px;
+	height:1940px;
+	margin: 0 auto;
+}
+.line1{
+	padding-top: 20px;
+}
+.line2{
+	float: left;
+	width: 670px;
+	height: 400px;
+	background: url(../img/3.1MC/line1.png) no-repeat center;
+	margin-bottom: 25px;
+}
+.line21{
+	float: left;
+	width: 670px;
+	height: 400px;
+	background: url(../img/3.1MC/line2.png) no-repeat center;
+}
+.line3{
+	margin-top: 280px;
+	height: 120px;
+	background:rgba(51,50,50,0.7);
+}
+.lineleft{
+	width: 310px;
+	float: left;
+	padding-left: 15px;
+}
+.lineright{
+	padding-right: 25px;
+	float: right;
+	padding-top: 40px;
+}
+#font4{
+	color: #fff;
+	float: left;
+	padding-top: 20px;
+	font-size: 26px;
+}
+#font5{
+	color: #fff;
+	font-size: 40px;
+}
+#font6{
+	color: #fff;
+	font-size: 20px;
+}
+/*定制*/
+.make{
+	width: 100%;
+	height:450px;
+	
+}
+.make1{
+	width: 670px;
+	height: 175px;
+	padding-top: 45px;
+	margin: 0 auto;
+}
+.make11{
+	float: left;
+	width: 100px;
+	height: 175px;
+}
+.make12{
+	float: left;
+	width: 400px;
+}
+#font7{
+	float: left;
+	font-size: 30px;
+	color: #e8420a;
+	padding-bottom: 30px;
+}
+#font8{
+	float: left;
+	font-size: 22px;
+	color: #666666;
+	padding-bottom: 15px;
+}
+#font9{
+	float: left;
+	font-size: 30px;
+	color: #1c5080;
+	padding-bottom: 30px;
+}
+#font10{
+	float: left;
+	font-size: 22px;
+	color: #666666;
+}
+.make13{
+	float: right;
+	padding-top: 24px;
+}
+.make131{
+	width: 165px;
+	height: 55px;
+	border: 1px #666666 solid;
+	border-radius: 10px;
+	text-align: center;
+	line-height: 55px;
+}
+.make131 a{
+	font-size: 22px;
+	color: #666666;
+}
+/*底部*/
+.bottom{
+	width: 100%;
+	height: 485px;
+	background: #343235;
+}
+.bottom1{
+	width: 670px;
+	height: 420px;
+	padding-top: 65px;
+	margin: 0 auto;
+}
+.bottom2{
+	width: 660px;
+	height: 100px;
+	margin-bottom: 40px;
+	border: 5px #ffffff solid;
+}
+.bottom2 p{
+	color: #ffffff;
+	font-size: 30px;
+	text-align: center;
+	line-height: 100px
+}
+.bottom3{
+	width: 670px;
+}
+.b1{
+	padding-bottom: 55px;
+	color: #ffffff;
+	font-size: 22px;
+	text-align: center;
+}
+.b2{
+	padding-bottom: 20px;
+	color: #ffffff;
+	font-size: 22px;
+	text-align: center;
+}
