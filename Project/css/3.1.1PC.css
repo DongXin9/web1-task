@@ -197,6 +197,9 @@ a{
 	padding-right: 10px;
 	font-size: 18px;
 }
+.picture1 li a{
+	color: #000;
+}
 .picture2{
 	width: 1200px;
 	height: 625px;
