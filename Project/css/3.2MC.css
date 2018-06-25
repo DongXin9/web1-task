@@ -37,6 +37,7 @@ a{
 	font-size: 28px;
 	text-align: center;
 	color: #fefefe;
+	padding-top: 7px;
 }
 .line{
 	height: 46px;
@@ -183,7 +184,6 @@ a{
 	height: 20px;
 	background-color: #f5f5f5;
 	margin: 0 auto; 
-	padding-top: 30px;
 }
 .photo{
 	width: 750px;

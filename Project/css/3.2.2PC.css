@@ -192,7 +192,7 @@ body{
 	margin-bottom: 13px;
 }
 .white22{
-	font-size: 12px;
+	font-size: 16px;
 	color: #666;
 	padding-left: 40px;
 	padding-top: 15px;
@@ -202,6 +202,7 @@ body{
 	padding-left: 85px;
 	padding-bottom: 15px;
 	font-size: 18px;
+	margin: 0 auto; 
 }
 .white24{
 	padding-left: 85px;
@@ -224,7 +225,7 @@ body{
 	margin-bottom: 13px;
 }
 .white32{
-	font-size: 12px;
+	font-size: 16px;
 	color: #666;
 	padding-left: 40px;
 	padding-top: 15px;
@@ -248,7 +249,7 @@ body{
 .white35{
 	padding-left: 85px;
 	font-size: 18px;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 }
 .white36{
 	padding-top: 15px;
@@ -270,13 +271,13 @@ body{
 	float: left;
 	margin-top: 30px;
 	margin-left: 40px;
-	font-size: 18px;
+	font-size: 20px;
 	display: block;
 	width: 900px;
 	padding-bottom: 13px;
 }
 .white42{
-	font-size: 12px;
+	font-size: 18px;
 	color: #666666;
 	padding-left: 40px;
 	padding-top: 15px;

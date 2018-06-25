@@ -41,6 +41,7 @@ body{
 	font-size: 28px;
 	text-align: center;
 	color: #fefefe;
+	padding-top: 6px;
 }
 .line{
 	height: 46px;
@@ -155,7 +156,7 @@ body{
 	float: left;
 	color: #e8420a;
 	font-size: 18px;
-	margin-top: 12px;
+	margin-top: 20px;
 	margin-left: 248px;
 }
 .five{
@@ -215,8 +216,11 @@ body{
 	float: left;
 	color: #e8420a;
 	font-size: 18px;
-	margin-top: 18px;
+	margin-top: 24px;
 	margin-left: 248px;
+}
+.five00 img{
+	margin-top: 4px;
 }
 .aaa{
 	width: 668px;
