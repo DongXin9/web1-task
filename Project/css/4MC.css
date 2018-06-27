@@ -10,12 +10,13 @@ a{
 }
 /*页头*/
 .top{
-	width: 100%;
+	width: 750px;
 	height: 116px;
 	border-bottom: 2px solid #434343;
 	border-top: 2px solid #cecece;
 	/*position:fixed;*/
 	background: #fff;
+	margin: 0 auto;
 }
 .top1{
 	width: 670px;
@@ -100,7 +101,8 @@ a{
 }
 /*线*/
 .string{
-	width: 100%;
+	width: 750px;
+	margin: 0 auto;
 	height: 20px;
 	background: #f5f5f5;
 }
@@ -319,7 +321,7 @@ a{
 	margin-bottom: 80px;
 }
 .flow1 img{
-	width: 100%;
+	width: 750px;
 	height: 100%;
 }
 /*服务优势*/
@@ -384,7 +386,8 @@ a{
 }
 /*底部*/
 .bottom{
-	width: 100%;
+	width: 750px;
+	margin: 0 auto;
 	height: 485px;
 	background: #343235;
 }

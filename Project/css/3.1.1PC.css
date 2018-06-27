@@ -432,7 +432,18 @@ a{
 	height: 40px;
 	margin-top: 125px;
 	margin-right: 38px;
-	background: url(../img/3.1.1PC/picture5.png) no-repeat right;
+}
+.p9{
+	float: right;
+	width: 130px;
+	height: 40px;
+	background: #e8420a;
+	border-radius: 5px;
+	text-align: center;
+}
+.p9 a{
+	line-height: 40px;
+	color: #fff;
 }
 .p31{
 	font-size: 20px;
