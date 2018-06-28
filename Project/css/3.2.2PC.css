@@ -21,9 +21,11 @@ body{
 .header{
 	height: 45px;
 	background-color: #333;
+	margin: 0 auto;
 }
 .left{
-	padding-left: 61%;
+	width: 250px;
+	padding-left: 59%;
 	height: 45px;
 	float: left;
 } 
@@ -47,9 +49,9 @@ body{
 .right{
 	width: 235px;
 	height: 34px;
-	float: right;
+	float: left;
 	padding-top: 11px;
-	padding-right: 95px;
+	padding-left: 20px;
 }
 .header1{
 	margin-right: 9px;
