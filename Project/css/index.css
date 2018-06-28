@@ -22,6 +22,7 @@ body{
 	height: 124px;
 	z-index: 999;
 	min-width: 400px;
+	border: 5px solid linear-gradient(black, white);
 }
 /*topa start*/
 .topa{
@@ -226,10 +227,12 @@ body{
 	border-bottom-left-radius: 10px; 
 }
 .banbaa{
-	width: 50%;
+	width: 25%;
 	height: 30px;
 	margin: 0 auto;
 	padding: 10px 0px;
+	position: absolute;
+	left: 6%;
 }
 .banbaa img{
 	float: left;
@@ -277,7 +280,8 @@ body{
 	border: none;
 	outline: none;
 	cursor: pointer;
-	float: left;
+	position: absolute;
+	right: 0;
 	display: block;
 	border-top-right-radius: 10px;
 	border-bottom-right-radius: 10px;
@@ -362,13 +366,16 @@ body{
 }
 
 /*beside start*/
+
 .beside{
 	width: 163px;
 	height: 395px;
 	position: fixed;
 	right: 0;
 	top: 200px;
+	display: block;
 	z-index: 996;
+	transition: 10s ease-out;
 }
 .besidea{
 	width: 103px;
