@@ -31,7 +31,7 @@
 > [3.1.1MC](https://gaoyushu.github.io/web1-task/Project/html/3.1.1MC.html) / 
 > [3.1.2MC](https://gaoyushu.github.io/web1-task/Project/html/3.1.2MC.html) / 
 > [3.2MC](https://gaoyushu.github.io/web1-task/Project/html/3.2MC.html) / 
-> [3.2.2MCP](https://gaoyushu.github.io/web1-task/Project/html/3.2.2MC.html) / 
+> [3.2.2MC](https://gaoyushu.github.io/web1-task/Project/html/3.2.2MC.html) / 
 > [4MC](https://gaoyushu.github.io/web1-task/Project/html/4MC.html) / 
 > [7.1MC](https://gaoyushu.github.io/web1-task/Project/html/7.1MC.html) / 
 > [7.2MC](https://gaoyushu.github.io/web1-task/Project/html/7.2MC.html)  
