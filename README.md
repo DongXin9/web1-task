@@ -27,14 +27,14 @@
 > [7.1PC](https://gaoyushu.github.io/web1-task/Project/html/7.1PC.html) / 
 > [7.2PC](https://gaoyushu.github.io/web1-task/Project/html/7.2PC.html)  
 > MC：
-> [3.1SP](https://gaoyushu.github.io/web1-task/Project/html/3.1MC.html) / 
-> [3.1.1SP](https://gaoyushu.github.io/web1-task/Project/html/3.1.1MC.html) / 
-> [3.1.2SP](https://gaoyushu.github.io/web1-task/Project/html/3.1.2MC.html) / 
-> [3.2SP](https://gaoyushu.github.io/web1-task/Project/html/3.2MC.html) / 
-> [3.2.2SP](https://gaoyushu.github.io/web1-task/Project/html/3.2.2MC.html) / 
-> [4SP](https://gaoyushu.github.io/web1-task/Project/html/4SP.html) / 
-> [7.1SP](https://gaoyushu.github.io/web1-task/Project/html/7.1MC.html) / 
-> [7.2SP](https://gaoyushu.github.io/web1-task/Project/html/7.2MC.html)  
+> [3.1MC](https://gaoyushu.github.io/web1-task/Project/html/3.1MC.html) / 
+> [3.1.1MC](https://gaoyushu.github.io/web1-task/Project/html/3.1.1MC.html) / 
+> [3.1.2MC](https://gaoyushu.github.io/web1-task/Project/html/3.1.2MC.html) / 
+> [3.2MC](https://gaoyushu.github.io/web1-task/Project/html/3.2MC.html) / 
+> [3.2.2MCP](https://gaoyushu.github.io/web1-task/Project/html/3.2.2MC.html) / 
+> [4MC](https://gaoyushu.github.io/web1-task/Project/html/4MC.html) / 
+> [7.1MC](https://gaoyushu.github.io/web1-task/Project/html/7.1MC.html) / 
+> [7.2MC](https://gaoyushu.github.io/web1-task/Project/html/7.2MC.html)  
 * [【中智信元】](/Project/zhognzhixinyuan)
 > [index](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/index.html)  
 > [contact](https://gaoyushu.github.io/web1-task/Project/zhongzhixinyuan/html/contact.html) / 
