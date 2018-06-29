@@ -69,10 +69,10 @@
 学号|姓名|用户名|任务数|任务
 ----|----|----|----|----
 2017011951|高予蜀|gaoyushu|4|index / register / contact / solution 
-2017011950|董心|DongXin9|4|3.1 / 3.1.1 PC+SP
-2017011945|王陆宇|wangluyu1998|4|3.1.2 / 4 PC+SP
-2017011980|高清鑫|xiaoqingxin2333|4|3.2 / 3.2.2 PC+SP
-2017011953|赵政|gqxsgzz|4|7.1 / 7.2  PC+SP    
+2017011950|董心|DongXin9|4|3.1 / 3.1.1 PC+MC
+2017011945|王陆宇|wangluyu1998|4|3.1.2 / 4 PC+MC
+2017011980|高清鑫|xiaoqingxin2333|4|3.2 / 3.2.2 PC+MC
+2017011953|赵政|gqxsgzz|4|7.1 / 7.2  PC+MC      
 ----
 ### Acknowledgement
 * Thanks to web
