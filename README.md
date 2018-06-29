@@ -6,6 +6,7 @@
 * [Change Log](#change-Log)
 * [Wiki](#wiki)
 * [Information](#information)
+  * [Feature](#feature)
   * [Authors](#authors)
   * [Acknowledgement](#acknowledgement)  
 ----
@@ -65,6 +66,10 @@
 * [Recording problems](https://github.com/gaoyushu/web1-task/wiki/Recording-problems)   
 ----
 ## Information
+### Feature
+* 效果方面：完成度较高 实现动效较多
+* 技术方面：定位 div嵌套 二级菜单及部分动效实现 运用较熟练
+* 创新方面：仿bilibili 摸鱼【注册】界面
 ### Authors
 学号|姓名|用户名|任务数|任务
 ----|----|----|----|----
